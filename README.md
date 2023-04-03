@@ -1,2 +1,2 @@
-# russianboston.io
-Website for LR445
+# Русскоязычный Бостон
+
